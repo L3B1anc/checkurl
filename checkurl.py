@@ -2,6 +2,7 @@
 """
 author:L3b1anc
 date:2019.5.13
+update:
 description:为了检查list中的url是否可以直接访问
 """
 
